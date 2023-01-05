@@ -1,2 +1,2 @@
 # price-table
-this is a single page showing prices
+this is a single webpage showing the price of different level. 
